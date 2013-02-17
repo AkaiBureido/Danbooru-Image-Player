@@ -46,22 +46,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0D0C37DA16CF408A009AE9BC /* DabooruImagePlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DabooruImagePlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D0C37DA16CF408A009AE9BC /* DanbooruImagePlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DanbooruImagePlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D0C37DE16CF408A009AE9BC /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		0D0C37E116CF408A009AE9BC /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		0D0C37E216CF408A009AE9BC /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		0D0C37E316CF408A009AE9BC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		0D0C37E616CF408A009AE9BC /* DabooruImagePlay-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DabooruImagePlay-Info.plist"; sourceTree = "<group>"; };
+		0D0C37E616CF408A009AE9BC /* DanbooruImagePlay-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DanbooruImagePlay-Info.plist"; sourceTree = "<group>"; };
 		0D0C37E816CF408B009AE9BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0D0C37EA16CF408B009AE9BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0D0C37EC16CF408B009AE9BC /* DabooruImagePlay-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DabooruImagePlay-Prefix.pch"; sourceTree = "<group>"; };
+		0D0C37EC16CF408B009AE9BC /* DanbooruImagePlay-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DanbooruImagePlay-Prefix.pch"; sourceTree = "<group>"; };
 		0D0C37EE16CF408B009AE9BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		0D0C37F016CF408B009AE9BC /* DabooruImagePlayAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DabooruImagePlayAppDelegate.h; sourceTree = "<group>"; };
 		0D0C37F116CF408B009AE9BC /* DabooruImagePlayAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DabooruImagePlayAppDelegate.m; sourceTree = "<group>"; };
 		0D0C37F416CF408B009AE9BC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		0D0C37FB16CF408B009AE9BC /* DabooruImagePlayTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DabooruImagePlayTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D0C37FB16CF408B009AE9BC /* DanbooruImagePlayTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DanbooruImagePlayTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D0C37FC16CF408B009AE9BC /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		0D0C380316CF408B009AE9BC /* DabooruImagePlayTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DabooruImagePlayTests-Info.plist"; sourceTree = "<group>"; };
+		0D0C380316CF408B009AE9BC /* DanbooruImagePlayTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DanbooruImagePlayTests-Info.plist"; sourceTree = "<group>"; };
 		0D0C380516CF408B009AE9BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0D0C380716CF408B009AE9BC /* DabooruImagePlayTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DabooruImagePlayTests.h; sourceTree = "<group>"; };
 		0D0C380816CF408B009AE9BC /* DabooruImagePlayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DabooruImagePlayTests.m; sourceTree = "<group>"; };
@@ -136,8 +136,8 @@
 		0D0C37DB16CF408A009AE9BC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0D0C37DA16CF408A009AE9BC /* DabooruImagePlay.app */,
-				0D0C37FB16CF408B009AE9BC /* DabooruImagePlayTests.octest */,
+				0D0C37DA16CF408A009AE9BC /* DanbooruImagePlay.app */,
+				0D0C37FB16CF408B009AE9BC /* DanbooruImagePlayTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -179,10 +179,10 @@
 		0D0C37E516CF408A009AE9BC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0D0C37E616CF408A009AE9BC /* DabooruImagePlay-Info.plist */,
+				0D0C37E616CF408A009AE9BC /* DanbooruImagePlay-Info.plist */,
 				0D0C37E716CF408B009AE9BC /* InfoPlist.strings */,
 				0D0C37EA16CF408B009AE9BC /* main.m */,
-				0D0C37EC16CF408B009AE9BC /* DabooruImagePlay-Prefix.pch */,
+				0D0C37EC16CF408B009AE9BC /* DanbooruImagePlay-Prefix.pch */,
 				0D0C37ED16CF408B009AE9BC /* Credits.rtf */,
 			);
 			name = "Supporting Files";
@@ -201,7 +201,7 @@
 		0D0C380216CF408B009AE9BC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0D0C380316CF408B009AE9BC /* DabooruImagePlayTests-Info.plist */,
+				0D0C380316CF408B009AE9BC /* DanbooruImagePlayTests-Info.plist */,
 				0D0C380416CF408B009AE9BC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -269,9 +269,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0D0C37D916CF408A009AE9BC /* DabooruImagePlay */ = {
+		0D0C37D916CF408A009AE9BC /* DanbooruImagePlay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D0C380C16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DabooruImagePlay" */;
+			buildConfigurationList = 0D0C380C16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DanbooruImagePlay" */;
 			buildPhases = (
 				0D0C37D616CF408A009AE9BC /* Sources */,
 				0D0C37D716CF408A009AE9BC /* Frameworks */,
@@ -281,14 +281,14 @@
 			);
 			dependencies = (
 			);
-			name = DabooruImagePlay;
+			name = DanbooruImagePlay;
 			productName = DabooruImagePlay;
-			productReference = 0D0C37DA16CF408A009AE9BC /* DabooruImagePlay.app */;
+			productReference = 0D0C37DA16CF408A009AE9BC /* DanbooruImagePlay.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0D0C37FA16CF408B009AE9BC /* DabooruImagePlayTests */ = {
+		0D0C37FA16CF408B009AE9BC /* DanbooruImagePlayTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D0C380F16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DabooruImagePlayTests" */;
+			buildConfigurationList = 0D0C380F16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DanbooruImagePlayTests" */;
 			buildPhases = (
 				0D0C37F616CF408B009AE9BC /* Sources */,
 				0D0C37F716CF408B009AE9BC /* Frameworks */,
@@ -300,9 +300,9 @@
 			dependencies = (
 				0D0C380016CF408B009AE9BC /* PBXTargetDependency */,
 			);
-			name = DabooruImagePlayTests;
+			name = DanbooruImagePlayTests;
 			productName = DabooruImagePlayTests;
-			productReference = 0D0C37FB16CF408B009AE9BC /* DabooruImagePlayTests.octest */;
+			productReference = 0D0C37FB16CF408B009AE9BC /* DanbooruImagePlayTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -315,7 +315,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Oleg Utkin";
 			};
-			buildConfigurationList = 0D0C37D416CF408A009AE9BC /* Build configuration list for PBXProject "DabooruImagePlay" */;
+			buildConfigurationList = 0D0C37D416CF408A009AE9BC /* Build configuration list for PBXProject "DanbooruImagePlay" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -327,8 +327,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0D0C37D916CF408A009AE9BC /* DabooruImagePlay */,
-				0D0C37FA16CF408B009AE9BC /* DabooruImagePlayTests */,
+				0D0C37D916CF408A009AE9BC /* DanbooruImagePlay */,
+				0D0C37FA16CF408B009AE9BC /* DanbooruImagePlayTests */,
 			);
 		};
 /* End PBXProject section */
@@ -409,7 +409,7 @@
 /* Begin PBXTargetDependency section */
 		0D0C380016CF408B009AE9BC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0D0C37D916CF408A009AE9BC /* DabooruImagePlay */;
+			target = 0D0C37D916CF408A009AE9BC /* DanbooruImagePlay */;
 			targetProxy = 0D0C37FF16CF408B009AE9BC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -508,11 +508,11 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DabooruImagePlay/DabooruImagePlay-Prefix.pch";
+				GCC_PREFIX_HEADER = "DabooruImagePlay/DanbooruImagePlay-Prefix.pch";
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
-				INFOPLIST_FILE = "DabooruImagePlay/DabooruImagePlay-Info.plist";
+				INFOPLIST_FILE = "DabooruImagePlay/DanbooruImagePlay-Info.plist";
 				OTHER_LDFLAGS = "-lxml2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DanbooruImagePlay;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -522,11 +522,11 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "DabooruImagePlay/DabooruImagePlay-Prefix.pch";
+				GCC_PREFIX_HEADER = "DabooruImagePlay/DanbooruImagePlay-Prefix.pch";
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
-				INFOPLIST_FILE = "DabooruImagePlay/DabooruImagePlay-Info.plist";
+				INFOPLIST_FILE = "DabooruImagePlay/DanbooruImagePlay-Info.plist";
 				OTHER_LDFLAGS = "-lxml2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DanbooruImagePlay;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -539,8 +539,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DabooruImagePlay/DabooruImagePlay-Prefix.pch";
-				INFOPLIST_FILE = "DabooruImagePlayTests/DabooruImagePlayTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "DabooruImagePlayTests/DanbooruImagePlayTests-Info.plist";
+				PRODUCT_NAME = DanbooruImagePlayTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -554,8 +554,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DabooruImagePlay/DabooruImagePlay-Prefix.pch";
-				INFOPLIST_FILE = "DabooruImagePlayTests/DabooruImagePlayTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "DabooruImagePlayTests/DanbooruImagePlayTests-Info.plist";
+				PRODUCT_NAME = DanbooruImagePlayTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -564,7 +564,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0D0C37D416CF408A009AE9BC /* Build configuration list for PBXProject "DabooruImagePlay" */ = {
+		0D0C37D416CF408A009AE9BC /* Build configuration list for PBXProject "DanbooruImagePlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D0C380A16CF408B009AE9BC /* Debug */,
@@ -573,7 +573,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0D0C380C16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DabooruImagePlay" */ = {
+		0D0C380C16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DanbooruImagePlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D0C380D16CF408B009AE9BC /* Debug */,
@@ -582,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0D0C380F16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DabooruImagePlayTests" */ = {
+		0D0C380F16CF408B009AE9BC /* Build configuration list for PBXNativeTarget "DanbooruImagePlayTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D0C381016CF408B009AE9BC /* Debug */,
