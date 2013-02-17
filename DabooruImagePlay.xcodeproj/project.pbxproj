@@ -32,6 +32,7 @@
 		0D0C38D016CF624F009AE9BC /* CXMLNode_XPathExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0C38C016CF624F009AE9BC /* CXMLNode_XPathExtensions.m */; };
 		0D0C38D116CF624F009AE9BC /* CTidy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0C38C316CF624F009AE9BC /* CTidy.m */; };
 		0D0C38DC16CFC157009AE9BC /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 0D0C38DB16CFC157009AE9BC /* iTunesArtwork */; };
+		0D6F226216D0CA4F00525EA7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0D6F226116D0CA4F00525EA7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +95,8 @@
 		0D0C38C316CF624F009AE9BC /* CTidy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTidy.m; sourceTree = "<group>"; };
 		0D0C38C416CF624F009AE9BC /* TouchXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchXML.h; sourceTree = "<group>"; };
 		0D0C38DB16CFC157009AE9BC /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
+		0D6F226016D0C98D00525EA7 /* The Todo List.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = "The Todo List.md"; sourceTree = "<group>"; };
+		0D6F226116D0CA4F00525EA7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,7 @@
 		0D0C37CF16CF408A009AE9BC = {
 			isa = PBXGroup;
 			children = (
+				0D6F226116D0CA4F00525EA7 /* README.md */,
 				0D0C38DB16CFC157009AE9BC /* iTunesArtwork */,
 				0D0C382116CF57A2009AE9BC /* ExtraLibraries */,
 				0D0C37E416CF408A009AE9BC /* DabooruImagePlay */,
@@ -161,12 +165,13 @@
 		0D0C37E416CF408A009AE9BC /* DabooruImagePlay */ = {
 			isa = PBXGroup;
 			children = (
+				0D6F226016D0C98D00525EA7 /* The Todo List.md */,
 				0D0C37F016CF408B009AE9BC /* DabooruImagePlayAppDelegate.h */,
 				0D0C37F116CF408B009AE9BC /* DabooruImagePlayAppDelegate.m */,
-				0D0C37F316CF408B009AE9BC /* MainMenu.xib */,
-				0D0C37E516CF408A009AE9BC /* Supporting Files */,
 				0D0C381616CF479D009AE9BC /* DanooruImageDelegate.h */,
 				0D0C381716CF479D009AE9BC /* DanooruImageDelegate.m */,
+				0D0C37F316CF408B009AE9BC /* MainMenu.xib */,
+				0D0C37E516CF408A009AE9BC /* Supporting Files */,
 			);
 			path = DabooruImagePlay;
 			sourceTree = "<group>";
@@ -337,6 +342,7 @@
 				0D0C37EF16CF408B009AE9BC /* Credits.rtf in Resources */,
 				0D0C37F516CF408B009AE9BC /* MainMenu.xib in Resources */,
 				0D0C38DC16CFC157009AE9BC /* iTunesArtwork in Resources */,
+				0D6F226216D0CA4F00525EA7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
