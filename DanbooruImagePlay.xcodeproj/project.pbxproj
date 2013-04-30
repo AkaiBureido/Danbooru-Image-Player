@@ -33,6 +33,7 @@
 		0D0C38D116CF624F009AE9BC /* CTidy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D0C38C316CF624F009AE9BC /* CTidy.m */; };
 		0D0C38DC16CFC157009AE9BC /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 0D0C38DB16CFC157009AE9BC /* iTunesArtwork */; };
 		0D6F226216D0CA4F00525EA7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0D6F226116D0CA4F00525EA7 /* README.md */; };
+		0DECF82C172F5815005F23E1 /* Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DECF82B172F5815005F23E1 /* Base64.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,8 @@
 		0D0C38DB16CFC157009AE9BC /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
 		0D6F226016D0C98D00525EA7 /* The Todo List.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = "The Todo List.md"; sourceTree = "<group>"; };
 		0D6F226116D0CA4F00525EA7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		0DECF82A172F5815005F23E1 /* Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Base64.h; sourceTree = "<group>"; };
+		0DECF82B172F5815005F23E1 /* Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Base64.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +175,8 @@
 				0D0C381716CF479D009AE9BC /* DanooruImageDelegate.m */,
 				0D0C37F316CF408B009AE9BC /* MainMenu.xib */,
 				0D0C37E516CF408A009AE9BC /* Supporting Files */,
+				0DECF82A172F5815005F23E1 /* Base64.h */,
+				0DECF82B172F5815005F23E1 /* Base64.m */,
 			);
 			path = DabooruImagePlay;
 			sourceTree = "<group>";
@@ -393,6 +398,7 @@
 				0D0C38CF16CF624F009AE9BC /* CXMLNode_PrivateExtensions.m in Sources */,
 				0D0C38D016CF624F009AE9BC /* CXMLNode_XPathExtensions.m in Sources */,
 				0D0C38D116CF624F009AE9BC /* CTidy.m in Sources */,
+				0DECF82C172F5815005F23E1 /* Base64.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

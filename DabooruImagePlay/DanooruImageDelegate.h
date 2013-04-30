@@ -17,6 +17,9 @@
     NSInteger            images_per_page;
     NSMutableString     *tags;
     NSImage             *current_image;
+    NSLock *super_lock;
+    
+    NSOperationQueue *queue;
     
     NSInteger delay;
     NSDate    *date;
@@ -48,6 +51,7 @@
 - (IBAction)display_popover:(id)sender;
 - (IBAction)pause_slideshow:(id)sender;
 - (IBAction)update_delay:(id)sender;
++ (id)hyperlinkFromString:(NSString*)string withURL:aURL;
 
 
 @property (weak) IBOutlet NSButton *pause_continue_button;
